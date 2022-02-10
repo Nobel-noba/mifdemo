@@ -358,7 +358,8 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.13",
-          "Mifdemo.Domain": "1.0.0"
+          "Mifdemo.Domain": "1.0.0",
+          "Pomelo.EntityFrameworkCore.MySql": "5.0.4"
         },
         "compile": {
           "bin/placeholder/Mifdemo.Infrastructure.dll": {}
