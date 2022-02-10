@@ -1,85 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\mifdemo\\mifdemo.csproj": {}
+    "/home/jab/Desktop/Together/mifdemo/mifdemo/mifdemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\Mifdemo.Application.csproj": {
+    "/home/jab/Desktop/Together/mifdemo/mifdemo/mifdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\Mifdemo.Application.csproj",
-        "projectName": "Mifdemo.Application",
-        "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\Mifdemo.Application.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\obj\\",
+        "projectUniqueName": "/home/jab/Desktop/Together/mifdemo/mifdemo/mifdemo.csproj",
+        "projectName": "mifdemo",
+        "projectPath": "/home/jab/Desktop/Together/mifdemo/mifdemo/mifdemo.csproj",
+        "packagesPath": "/home/jab/.nuget/packages/",
+        "outputPath": "/home/jab/Desktop/Together/mifdemo/mifdemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/jab/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj",
-        "projectName": "Mifdemo.Domain",
-        "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -97,166 +37,10 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\Mifdemo.Infrastructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\Mifdemo.Infrastructure.csproj",
-        "projectName": "Mifdemo.Infrastructure",
-        "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\Mifdemo.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.13, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\mifdemo\\mifdemo.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\mifdemo\\mifdemo.csproj",
-        "projectName": "mifdemo",
-        "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\mifdemo\\mifdemo.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\mifdemo\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\Mifdemo.Application.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Application\\Mifdemo.Application.csproj"
-              },
-              "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Domain\\Mifdemo.Domain.csproj"
-              },
-              "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\Mifdemo.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\Workspace\\projects\\Practice\\mifdemo\\Mifdemo.Infrastructure\\Mifdemo.Infrastructure.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.13, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[5.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -281,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
         }
       }
     }

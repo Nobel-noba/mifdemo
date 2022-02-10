@@ -1,0 +1,7 @@
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.csproj.AssemblyReference.cache
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.AssemblyInfoInputs.cache
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.AssemblyInfo.cs
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.csproj.CoreCompileInputs.cache
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.MvcApplicationPartsAssemblyInfo.cs
+/home/jab/Desktop/Together/mifdemo/mifdemo/obj/Debug/net5.0/mifdemo.MvcApplicationPartsAssemblyInfo.cache
